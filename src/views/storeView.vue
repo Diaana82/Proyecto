@@ -1,13 +1,10 @@
 <template>
-   <p>Hola soy el Home</p>
+   <p>Hola soy el store</p>
 </template>
 
 <script>
 // @ is an alias to /src
 export default {
-  name: 'HomeView'
+  name: 'storeView'
 }
 </script>
-
-<style>
-</style>
